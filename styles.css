@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+main{
+	
+	width: 800px; 
+	height: 250px;
+	background-color:  #f5f5f5;
+	padding: 20px;
+}
+.para{
+	width: 750px;
+	height: 40px;
+	background-color: white;
+	border: 7px solid #f5f5f5;
+	padding: 10px
+}
